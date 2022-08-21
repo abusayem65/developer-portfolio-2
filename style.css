@@ -110,3 +110,11 @@ h3{
 #web-developer{
     border-left: 7px solid blue;
 }
+footer{
+    padding: 20px 0;
+}
+footer p{
+    text-align: center;
+    color: dimgray;
+
+}
